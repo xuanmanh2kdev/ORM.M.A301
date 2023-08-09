@@ -1,0 +1,9 @@
+
+s
+java:S1192V"QDefine a constant instead of duplicating this literal "FROM Candidate c" 3 times.(ŠÙóùÿÿÿÿ8¤²ÉÌø0
+h
+java:S1192X"FDefine a constant instead of duplicating this literal "skill" 3 times.(¬Á¬ïüÿÿÿÿ8¥²ÉÌø0
+]
+java:S27890"@Methods with an "Optional" return type should never return null.(¥¹ï8¨²ÉÌø0
+]
+java:S2789J"@Methods with an "Optional" return type should never return null.(¥¹ï8©²ÉÌø0
